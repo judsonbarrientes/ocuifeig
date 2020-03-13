@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://fahvihohn.d-koppenhagen.de/sitemap.xml
